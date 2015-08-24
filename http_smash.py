@@ -13,6 +13,7 @@
     http_smash will only query this single URL each iteration
  --urlfile /tmp/file_of_urls
     http_smash will query every URL in this file each iteration
+    The file should contain a single url on each line.
  iterations
     The number of times to query each URL
  smash_threads
